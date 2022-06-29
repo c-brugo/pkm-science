@@ -474,7 +474,7 @@ N,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp Atk,Sp Def,Speed,Generation,Lege
 471,Glaceon,Ice,,525,65,60,110,130,95,65,4,False
 472,Gliscor,Ground,Flying,510,75,95,125,45,75,95,4,False
 473,Mamoswine,Ice,Ground,530,110,130,80,70,60,80,4,False
-474,PorygonZ,Normal,,535,85,80,70,135,75,90,4,False
+474,Porygon-Z,Normal,,535,85,80,70,135,75,90,4,False
 475,Gallade,Psychic,Fighting,518,68,125,65,65,115,80,4,False
 476,Probopass,Rock,Steel,525,60,55,145,75,150,40,4,False
 477,Dusknoir,Ghost,,525,45,100,135,65,135,45,4,False
